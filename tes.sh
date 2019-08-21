@@ -35,7 +35,7 @@ echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mSGB-Team"
 sleep 1
 clear
-cd $HOME/GREEN ZOMBIES/Tul/
+cd $HOME/tes
 php 1
 fi
 
@@ -51,7 +51,7 @@ echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mDanz"
 sleep 1
 clear
-cd $HOME/GREEN ZOMBIES/Tul/
+cd $HOME/tes
 php 2.php
 fi
 
